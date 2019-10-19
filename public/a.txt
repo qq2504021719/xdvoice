@@ -1,0 +1,3085 @@
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 电视的机身接口怎么对接？
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 我可以在哪里反馈问题
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 遥控器怎么使用呢？
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 语音助手的使用指南
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 电视机如何进行智能诊断
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 智能诊断有哪些弊端
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 智能诊断有什么用吗
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 语音助手有哪些功能
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 如何使用应用管理
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 问题反馈具体包括什么
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 在哪里反馈问题
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 怎么诊断我的电视
+@answer : 咨询，常见问题
+[@faq]
+@tag : 咨询
+@tag : 常见问题
+@question : 玩机指南之遥控器
+@answer : 咨询，常见问题
+[@faq]
+@tag : 注册
+@tag : 账号
+@question : 请给我注册一个新账号
+@answer : 注册，账号
+[@faq]
+@tag : 注册
+@tag : 账号
+@question : 如何注册账号
+@answer : 注册，账号
+[@faq]
+@tag : 注册
+@tag : 账号
+@question : 怎么创建一个新的账号
+@answer : 注册，账号
+[@faq]
+@tag : 注册
+@tag : 账号
+@question : 我想创建新账号
+@answer : 注册，账号
+[@faq]
+@tag : 注册
+@tag : 账号
+@question : 帮我注册个账号吧
+@answer : 注册，账号
+[@faq]
+@tag : 找回
+@tag : 账号
+@question : 密码找回
+@answer : 找回，账号
+[@faq]
+@tag : 找回
+@tag : 账号
+@question : 忘记密码
+@answer : 找回，账号
+[@faq]
+@tag : 找回
+@tag : 账号
+@question : 我要找回密码
+@answer : 找回，账号
+[@faq]
+@tag : 找回
+@tag : 账号
+@question : 账号找回
+@answer : 找回，账号
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 帮我加速一下系统
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 帮我清理下缓存
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 可以一键加速吗
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 内存不够用了
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 切换页面的速度好慢
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 我想优化系统
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 我要系统优化
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 系统好卡啊
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 系统好像有些慢了
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 系统跑不动了
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 系统为什么这么卡？
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 系统有点卡了
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 系统怎么这么慢？
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 优化下我的系统
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 有办法加速下系统吗
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 怎么感觉系统这么卡
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 清理缓存
+@answer : 优化，系统
+[@faq]
+@tag : 优化
+@tag : 系统
+@question : 系统优化
+@answer : 优化，系统
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 把这个APP卸载了
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 帮我删除下这个软件
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 帮我卸载下这个软件
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 帮我卸载这个应用
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 不想要这个软件了
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 不用的程序怎么删
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 打开应用卸载模块界面
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 清理占空间的应用
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 请删除之前安装的腾讯视频
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 删除这个应用
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 怎么删除这个软件
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 怎么卸载这个应用
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 怎么卸载这些软件
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 这个应用删了吧
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 请帮我卸载电视猫
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 请删除安装的腾讯视频
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 腾讯视频删除掉
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 腾讯视频卸载掉吧
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 已经安装的腾讯视频删除掉吧
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 卸载爱奇艺
+@answer : 卸载，应用
+[@faq]
+@tag : 卸载
+@tag : 应用
+@question : 应用卸载
+@answer : 卸载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : QQ音乐哪里下载
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 安装一个可以看视频的应用
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 帮我下载芒果TV试用一下
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 能帮忙下载一下腾讯视频吗
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 能不能帮我下载一个看电影的应用
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 请帮我下载腾讯视频
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 如果你可以帮忙安装腾讯视频这个软件就好了
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 我想安装腾讯视频
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 我想下载电视猫
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 我想下载腾讯视频
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 下载兔子视频试一试
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 下载一下优酷
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 在哪里下载APP
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 这里可以下载电视猫吗
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 安装一下爱奇艺
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 能帮我下一个电视猫吗
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 我想要安装腾讯视频
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 想安装爱奇艺
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 下载爱奇艺
+@answer : 下载，应用
+[@faq]
+@tag : 下载
+@tag : 应用
+@question : 安装爱奇艺
+@answer : 下载，应用
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 播一下周杰伦的烟花易冷
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 超级想听陈奕迅的歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 给我播首周杰伦的歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 来首音乐解解闷
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 太无聊了播首音乐吧
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 听英语歌曲
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我想听听纯音乐，比较安静
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 播放一首小孩儿听的歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我想听小清新的音乐
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我想听中国风的音乐
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听歌曲
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听周杰伦唱的流行歌曲
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听最劲爆的歌曲
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 现在想听中国风音乐
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 想听上海话的歌曲
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 中国风音乐可以给我播放一下吗
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听中国风的音乐
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听周杰伦唱的中国风歌曲
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 想听陈奕迅的歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 想听粤语歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 来首爵士乐
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我想听陈奕迅的歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我想听周杰伦的双截棍
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 帮我搜一搜韩语歌曲
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 听一下英语歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 有没有中国风的音乐呀？
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 周杰伦的歌曲都播一下
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 来一首纯音乐
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 最劲爆的歌曲来一首
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听忐忑
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听周杰伦的专辑叶惠美
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听龚琳娜的歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听摇滚歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听美国歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听粤语歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听60年代歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听钢琴曲
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听许镜清作曲的歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听少年时代电影的插曲
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听甄嬛传的歌曲
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听中国好声音的歌
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 我要听上海滩的片尾曲
+@answer : 听，音乐
+[@faq]
+@tag : 听
+@tag : 音乐
+@question : 经典摇滚歌曲推荐
+@answer : 听，音乐
+[@faq]
+@tag : 调整
+@tag : 音量
+@question : 我想调音量
+@answer : 调整，音量
+[@faq]
+@tag : 调整
+@tag : 音量
+@question : 怎么调整音量
+@answer : 调整，音量
+[@faq]
+@tag : 调整
+@tag : 音量
+@question : 音量调整
+@answer : 调整，音量
+[@faq]
+@tag : 调整
+@tag : 音量
+@question : 声音调到50
+@answer : 调整，音量
+[@faq]
+@tag : 调整
+@tag : 音量
+@question : 帮我调一下音量
+@answer : 调整，音量
+[@faq]
+@tag : 调整
+@tag : 亮度
+@question : 帮我调整下亮度
+@answer : 调整，亮度
+[@faq]
+@tag : 调整
+@tag : 亮度
+@question : 如何调整亮度
+@answer : 调整，亮度
+[@faq]
+@tag : 调整
+@tag : 亮度
+@question : 调整下亮度
+@answer : 调整，亮度
+[@faq]
+@tag : 调整
+@tag : 亮度
+@question : 怎么调整亮度
+@answer : 调整，亮度
+[@faq]
+@tag : 调整
+@tag : 亮度
+@question : 亮度调到20
+@answer : 调整，亮度
+[@faq]
+@tag : 调高
+@tag : 音量
+@question : 我想加音量
+@answer : 调高，音量
+[@faq]
+@tag : 调高
+@tag : 音量
+@question : 声音太轻
+@answer : 调高，音量
+[@faq]
+@tag : 调高
+@tag : 音量
+@question : 音量高一点
+@answer : 调高，音量
+[@faq]
+@tag : 调高
+@tag : 音量
+@question : 音量好低
+@answer : 调高，音量
+[@faq]
+@tag : 调高
+@tag : 音量
+@question : 有点吵，声音大点
+@answer : 调高，音量
+[@faq]
+@tag : 调高
+@tag : 音量
+@question : 声音增加三十二
+@answer : 调高，音量
+[@faq]
+@tag : 调高
+@tag : 音量
+@question : 音量增加到70
+@answer : 调高，音量
+[@faq]
+@tag : 调高
+@tag : 音量
+@question : 音量不够
+@answer : 调高，音量
+[@faq]
+@tag : 调高
+@tag : 音量
+@question : 调高音量
+@answer : 调高，音量
+[@faq]
+@tag : 调高
+@tag : 音量
+@question : 音量调到10
+@answer : 调高，音量
+[@faq]
+@tag : 调高
+@tag : 音量
+@question : 音量增加10
+@answer : 调高，音量
+[@faq]
+@tag : 调高
+@tag : 亮度
+@question : 电视太暗了看不见
+@answer : 调高，亮度
+[@faq]
+@tag : 调高
+@tag : 亮度
+@question : 亮度不够高
+@answer : 调高，亮度
+[@faq]
+@tag : 调高
+@tag : 亮度
+@question : 电视调亮20
+@answer : 调高，亮度
+[@faq]
+@tag : 调高
+@tag : 亮度
+@question : 调高亮度
+@answer : 调高，亮度
+[@faq]
+@tag : 调高
+@tag : 亮度
+@question : 亮度增加20
+@answer : 调高，亮度
+[@faq]
+@tag : 调低
+@tag : 音量
+@question : 声音太大了
+@answer : 调低，音量
+[@faq]
+@tag : 调低
+@tag : 音量
+@question : 调小十格音量
+@answer : 调低，音量
+[@faq]
+@tag : 调低
+@tag : 音量
+@question : 我要减音量
+@answer : 调低，音量
+[@faq]
+@tag : 调低
+@tag : 音量
+@question : 音量小一点
+@answer : 调低，音量
+[@faq]
+@tag : 调低
+@tag : 音量
+@question : 请把声音调小一点
+@answer : 调低，音量
+[@faq]
+@tag : 调低
+@tag : 音量
+@question : 声音有点大
+@answer : 调低，音量
+[@faq]
+@tag : 调低
+@tag : 音量
+@question : 有点吵，声音小点
+@answer : 调低，音量
+[@faq]
+@tag : 调低
+@tag : 音量
+@question : 降低10声
+@answer : 调低，音量
+[@faq]
+@tag : 调低
+@tag : 音量
+@question : 调小声一点啊
+@answer : 调低，音量
+[@faq]
+@tag : 调低
+@tag : 音量
+@question : 调低音量
+@answer : 调低，音量
+[@faq]
+@tag : 调低
+@tag : 音量
+@question : 音量减少10
+@answer : 调低，音量
+[@faq]
+@tag : 调低
+@tag : 亮度
+@question : 电视亮度降低一点
+@answer : 调低，亮度
+[@faq]
+@tag : 调低
+@tag : 亮度
+@question : 亮度低一些
+@answer : 调低，亮度
+[@faq]
+@tag : 调低
+@tag : 亮度
+@question : 屏幕太亮了
+@answer : 调低，亮度
+[@faq]
+@tag : 调低
+@tag : 亮度
+@question : 屏幕调低到30
+@answer : 调低，亮度
+[@faq]
+@tag : 调低
+@tag : 亮度
+@question : 调低一下屏幕的亮度
+@answer : 调低，亮度
+[@faq]
+@tag : 调低
+@tag : 亮度
+@question : 我觉得屏幕太亮了
+@answer : 调低，亮度
+[@faq]
+@tag : 调低
+@tag : 亮度
+@question : 亮度降低10
+@answer : 调低，亮度
+[@faq]
+@tag : 调低
+@tag : 亮度
+@question : 调低亮度
+@answer : 调低，亮度
+[@faq]
+@tag : 调低
+@tag : 亮度
+@question : 亮度减少20
+@answer : 调低，亮度
+[@faq]
+@tag : 升级
+@tag : 系统
+@question : 换成最新版系统
+@answer : 升级，系统
+[@faq]
+@tag : 升级
+@tag : 系统
+@question : 检查系统升级
+@answer : 升级，系统
+[@faq]
+@tag : 升级
+@tag : 系统
+@question : 升级系统
+@answer : 升级，系统
+[@faq]
+@tag : 升级
+@tag : 系统
+@question : 升下系统版本
+@answer : 升级，系统
+[@faq]
+@tag : 升级
+@tag : 系统
+@question : 系统版本升下级
+@answer : 升级，系统
+[@faq]
+@tag : 升级
+@tag : 系统
+@question : 系统升到最新版
+@answer : 升级，系统
+[@faq]
+@tag : 升级
+@tag : 系统
+@question : 系统有新版本吗？
+@answer : 升级，系统
+[@faq]
+@tag : 升级
+@tag : 系统
+@question : 系统这个版本有点老
+@answer : 升级，系统
+[@faq]
+@tag : 升级
+@tag : 系统
+@question : 做下系统升级
+@answer : 升级，系统
+[@faq]
+@tag : 升级
+@tag : 系统
+@question : 做一下系统版本升级
+@answer : 升级，系统
+[@faq]
+@tag : 升级
+@tag : 系统
+@question : 系统升级
+@answer : 升级，系统
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 教我在哪里设置蓝牙
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 蓝牙在哪里设置
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 蓝牙怎么没有连接
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 如何关闭蓝牙
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 如何使用蓝牙传文件？
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 怎么打开电视的蓝牙？
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 怎么连接我的蓝牙设备
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 关闭蓝牙吧
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 蓝牙设置在哪里
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 请帮我打开蓝牙
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 我想打开蓝牙
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 怎么设置电脑蓝牙
+@answer : 设置，蓝牙
+[@faq]
+@tag : 设置
+@tag : 蓝牙
+@question : 蓝牙设置
+@answer : 设置，蓝牙
+[@faq]
+@tag : 求
+@tag : 搜索
+@question : 进行全局搜索
+@answer : 求，搜索
+[@faq]
+@tag : 求
+@tag : 搜索
+@question : 搜索一下东西
+@answer : 求，搜索
+[@faq]
+@tag : 求
+@tag : 搜索
+@question : 我要搜索东西
+@answer : 求，搜索
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看中央1
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看CCTV1
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 播放CCTV9
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 中央11现在在播什么？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 爸爸想看少儿电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 变形金刚系列有么
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 播一下梦工厂出品的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 电视剧有哪些好看的呀？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 电视剧有些什么好推荐给我的
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 电影有些什么好推荐给我的
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 动画片来一个
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 动漫有些什么好推荐给我的
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 高分电影有哪些
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 给我来点电视剧
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 给我来点老电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 给我来点新番
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 给我来点综艺节目
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 话说有动画片吗？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 经典武侠片来一部
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 看个什么电影好呢？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 看最新一集的欢乐颂2
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 科幻类电影怎么搜
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 来点电影？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 乐视影业出过哪些电影？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 乐视影业的电影有哪些？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 乐视影业拍过哪些电影？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 弄个电视剧我
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 弄个动漫我看看
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 弄个科幻大片我看看
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 弄个综艺节目我
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 搜索下热门电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 搜索最新电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 查查孙俪的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 泰国最近有什么好看的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 推荐几个电视剧我
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 推荐几个动漫我
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 推荐几个好玩的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 推荐几个综艺节目我
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 推荐一下科幻片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 推荐一些电视剧
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 推荐一些动漫
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 推荐一些综艺
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 推荐一些综艺节目
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 为什么不推荐爱情片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看高清的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看高清的闽南语电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看功夫熊猫
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看火影忍者
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看挪威电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看皮克斯的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看周星驰的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想要看看电视剧
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想要看看动漫
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想要看看综艺节目
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想要看看最新上映的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要电视剧推荐
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我怎么找不到英语电影啊？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我找不到想看的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我最爱恐怖片了，给我推荐一个吧
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 想看抗日神剧
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 想看李连杰演的外国电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 想看综艺
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 小孩想看西班牙电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有没有4K的西班牙电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看海贼王
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有没有动画片？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有没有经典的动漫可以看
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有闽南语的电影吗？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有木有科幻片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有哪些电视剧比较好看？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有什么好看的电视剧吗
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有什么好看的电影吗
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有什么好看的动漫吗
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有什么好看的科幻大片么
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有什么好看的综艺节目吗
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有什么恐怖片好看的吗
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 这里有没有埃及电影？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 综艺节目有没有好看的？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 综艺节目有些什么好推荐给我的吗
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 最近想看爱情故事片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 最近有些什么动漫
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 最近有些什么新电视剧
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 最近有些什么新电影推荐吗
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 最近有些什么新综艺节目
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看金鸡奖的影片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 给宝宝来个卡通
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 获过奥斯卡的影片来一部
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 科幻电影来一个
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 来个4K影片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 来一部悬疑片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看超清的警匪片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看欢乐颂
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看美国获得奥斯卡的英语片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看明星访谈
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看脱口秀
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要孙俪演的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 想看甄嬛传
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有没有黑社会的视频啊
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有没有讲黑社会的视频啊
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有没有美国的视频啊
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有什么健康的节目可以看
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有什么偶像剧最近
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 张艺谋有毛好看的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 周杰伦演过什么电影？来一部吧
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 周杰伦有什么电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 最近有什么好看的国产片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 来个刺激的影片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 来个好笑的节目
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 影片来一个
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有没有Cosplay的视频
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 有没有讲闽南语的那种片子？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 成龙成名片有哪些？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 给小孩看的影片有没有
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 漫威电影来一部
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 哪部影片获得了电影学奖？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 推荐一下科幻片跟动作片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我喜欢李小龙的动作电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 哪部影片曾经获得最佳男主角的奖项？
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我想看周杰伦的MV
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 来个自然记录片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 漫威影片来一个
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看电视
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 搜索下厉害的影片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看罗生门
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看电视剧
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看动漫
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看体育
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看娱乐
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看记录片
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看综艺
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看MV
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看爱情电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看偶像电视剧
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看周迅的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看周迅和梁朝伟主演的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看周迅的科幻电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看姜文导演的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看姜文导演的喜剧电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看葛优2000年的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看美国电视剧
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看纸牌屋第二季
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看越狱第二季
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看芈月传最后一集
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看标清电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看高清电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看超清电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看全高清电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看奥斯卡得奖电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看2000年奥斯卡最佳外语片电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看适合全家一起看的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看英语电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看评分8分以上的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看皮克斯电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看票房在10亿以上的电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 我要看二战电影
+@answer : 求，视频
+[@faq]
+@tag : 求
+@tag : 视频
+@question : 推荐热门动作电影
+@answer : 求，视频
+[@faq]
+@tag : 清理
+@tag : 垃圾
+@question : 给我清理一下垃圾吧
+@answer : 清理，垃圾
+[@faq]
+@tag : 清理
+@tag : 垃圾
+@question : 好像系统垃圾太多了？清理下
+@answer : 清理，垃圾
+[@faq]
+@tag : 清理
+@tag : 垃圾
+@question : 垃圾多到卡
+@answer : 清理，垃圾
+[@faq]
+@tag : 清理
+@tag : 垃圾
+@question : 垃圾有点多了
+@answer : 清理，垃圾
+[@faq]
+@tag : 清理
+@tag : 垃圾
+@question : 如何实现垃圾清理
+@answer : 清理，垃圾
+[@faq]
+@tag : 清理
+@tag : 垃圾
+@question : 怎么清理系统垃圾
+@answer : 清理，垃圾
+[@faq]
+@tag : 清理
+@tag : 垃圾
+@question : 该清理垃圾了
+@answer : 清理，垃圾
+[@faq]
+@tag : 清理
+@tag : 垃圾
+@question : 清理一下垃圾
+@answer : 清理，垃圾
+[@faq]
+@tag : 清理
+@tag : 垃圾
+@question : 垃圾清理
+@answer : 清理，垃圾
+[@faq]
+@tag : 切换
+@tag : 主题
+@question : 换一好的主题吧
+@answer : 切换，主题
+[@faq]
+@tag : 切换
+@tag : 主题
+@question : 界面难看换一个新的
+@answer : 切换，主题
+[@faq]
+@tag : 切换
+@tag : 主题
+@question : 切换一个主题
+@answer : 切换，主题
+[@faq]
+@tag : 切换
+@tag : 主题
+@question : 切一个新的主题
+@answer : 切换，主题
+[@faq]
+@tag : 切换
+@tag : 主题
+@question : 随便换一个主题
+@answer : 切换，主题
+[@faq]
+@tag : 切换
+@tag : 主题
+@question : 随机换一个主题
+@answer : 切换，主题
+[@faq]
+@tag : 切换
+@tag : 主题
+@question : 这个主题不好看
+@answer : 切换，主题
+[@faq]
+@tag : 切换
+@tag : 主题
+@question : 这个主题太丑了
+@answer : 切换，主题
+[@faq]
+@tag : 切换
+@tag : 主题
+@question : 切换主题
+@answer : 切换，主题
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 更换信号源
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 换个流畅的信号源
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 换个稳定的信号源
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 换个信号源
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 换信号源
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切到HDMI
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切个信号源
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换HDMI
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换其他的信号源
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 调到HDMI
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 我想切换到HDMI3
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 我要切成HDMI
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 信号切换到AV
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 信号源好像不太好
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 信号源换一下
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 打开HDMI
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到HDMI
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 打开HDMI1
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到HDMI1
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 打开HDMI2
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到HDMI2
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 打开HDMI3
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到HDMI3
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到DTV
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到数字电视
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到ATV
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到模拟电视
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到YPBPR
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到YPBPR1
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到YPBPR2
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到AV
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 信号源
+@question : 切换到VGA
+@answer : 切换，信号源
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 帮我调到CCTV5
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 换到第五台
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 换个频道
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 换频道了
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 开始切换频道
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 切到凤凰卫视
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 切换到第五频道
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 切换到中央一套
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 随机换个频道
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 调到第三十一台
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 跳到中央5
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 转到中央一
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 转台到中央1
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 频道换一个
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 换到CCTV5
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 帮我调到新闻
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 换到北京卫视
+@answer : 切换，频道
+[@faq]
+@tag : 切换
+@tag : 频道
+@question : 换到10频道
+@answer : 切换，频道
+[@faq]
+@tag : 关闭
+@tag : 应用
+@question : 帮我关了天天健身
+@answer : 关闭，应用
+[@faq]
+@tag : 关闭
+@tag : 应用
+@question : 不想看搜狐视频了，关了吧
+@answer : 关闭，应用
+[@faq]
+@tag : 关闭
+@tag : 应用
+@question : 布丁视频不好看，关了它
+@answer : 关闭，应用
+[@faq]
+@tag : 关闭
+@tag : 应用
+@question : 超级助理TV不好用，关掉它
+@answer : 关闭，应用
+[@faq]
+@tag : 关闭
+@tag : 应用
+@question : 关闭腾讯视频
+@answer : 关闭，应用
+[@faq]
+@tag : 关闭
+@tag : 应用
+@question : 你能帮我把电视轻应用关掉吗
+@answer : 关闭，应用
+[@faq]
+@tag : 关闭
+@tag : 应用
+@question : 球迷TV不行，关掉！
+@answer : 关闭，应用
+[@faq]
+@tag : 关闭
+@tag : 应用
+@question : 关闭爱奇艺
+@answer : 关闭，应用
+[@faq]
+@tag : 关闭
+@tag : 应用
+@question : 退出爱奇艺
+@answer : 关闭，应用
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 帮我调成静音
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 帮我调成无声
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 不要开声音
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 不要有声音
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 给我静音
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 关闭声音
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 换成静音状态
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 消音
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 音量调成0
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 暂时静音
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 执行静音
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 声音
+@question : 静音
+@answer : 关闭，声音
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 帮我关机啦
+@answer : 关闭，机器
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 该关机了
+@answer : 关闭，机器
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 关闭电源
+@answer : 关闭，机器
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 关机把
+@answer : 关闭，机器
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 关机了
+@answer : 关闭，机器
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 可以关掉电视吗
+@answer : 关闭，机器
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 可以关机了
+@answer : 关闭，机器
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 请关机
+@answer : 关闭，机器
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 怎么关机
+@answer : 关闭，机器
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 执行关机
+@answer : 关闭，机器
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 自动关机
+@answer : 关闭，机器
+[@faq]
+@tag : 关闭
+@tag : 机器
+@question : 关机
+@answer : 关闭，机器
+[@faq]
+@tag : 更新
+@tag : 应用
+@question : 帮我更新一下应用吧
+@answer : 更新，应用
+[@faq]
+@tag : 更新
+@tag : 应用
+@question : 急用悟空遥控器，快点更新
+@answer : 更新，应用
+[@faq]
+@tag : 更新
+@tag : 应用
+@question : 可以帮我更新街机电玩城吗
+@answer : 更新，应用
+[@faq]
+@tag : 更新
+@tag : 应用
+@question : 快手看片有新版本吗，升级下
+@answer : 更新，应用
+[@faq]
+@tag : 更新
+@tag : 应用
+@question : 麻烦把优酷升级一下吧
+@answer : 更新，应用
+[@faq]
+@tag : 更新
+@tag : 应用
+@question : 去给我更新王者守卫
+@answer : 更新，应用
+[@faq]
+@tag : 更新
+@tag : 应用
+@question : 升级一下酷我K歌的TV版吧
+@answer : 更新，应用
+[@faq]
+@tag : 更新
+@tag : 应用
+@question : PPTV版本有点久了，更新一下
+@answer : 更新，应用
+[@faq]
+@tag : 更新
+@tag : 应用
+@question : 请升级电视猫
+@answer : 更新，应用
+[@faq]
+@tag : 更新
+@tag : 应用
+@question : 请迭代电视猫最新版本
+@answer : 更新，应用
+[@faq]
+@tag : 更新
+@tag : 应用
+@question : 更新爱奇艺
+@answer : 更新，应用
+[@faq]
+@tag : 登录
+@tag : 账号
+@question : 登录我的账号
+@answer : 登录，账号
+[@faq]
+@tag : 登录
+@tag : 账号
+@question : 切换账号
+@answer : 登录，账号
+[@faq]
+@tag : 登录
+@tag : 账号
+@question : 我有没有登录账户？
+@answer : 登录，账号
+[@faq]
+@tag : 登录
+@tag : 账号
+@question : 账号在哪里登录？
+@answer : 登录，账号
+[@faq]
+@tag : 登录
+@tag : 账号
+@question : 看不到我有没有登录了
+@answer : 登录，账号
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开账号系统
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开主题商店
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 进入菜单设置
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 进入设置菜单
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 进入账号系统登录模块界面
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 进入主题商店
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 启动一下腾讯视频
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 请打开腾讯视频
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 给我打开QQ音乐
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 我要打开腾讯视频看片
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 主题商店怎么打开
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开网络设置
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开网络设置界面
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开智能助手
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 启动电视管家
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开PPTV聚体育
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开乐视云盘
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开兔子助手
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 请帮我打开电视直播
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 请帮我打开腾讯视频
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 请打开腾讯视频来看电影
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 我想用电视猫看电影
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 我想用快手看片看片
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开全局的搜索
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 帮我打开腾讯视频看看现在有什么视频
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开设置菜单
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开爱奇艺
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开Q小视
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开天气
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开玩机指南
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开NewTV极光
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开乐学教育
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开彩虹音乐
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开QQ音乐
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开腾讯电视游戏
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开媒体中心
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开长虹院线
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开CHiQ电视
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开长虹奇异果
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开智慧管家
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 应用
+@question : 打开阅视环球购物
+@answer : 打开，应用
+[@faq]
+@tag : 打开
+@tag : 声音
+@question : 关闭静音
+@answer : 打开，声音
+[@faq]
+@tag : 打开
+@tag : 声音
+@question : 取消静音
+@answer : 打开，声音
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : U盘打开一下
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 帮我打开一下存储设备
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 帮我看看U盘里有什么
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 查看U盘
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 打开优盘
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 进入U盘
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 是否可以帮我打开U盘
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 我想要打开U盘
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 想看看U盘里有什么
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 直接打开U盘
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 打开我的USB
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 可以打开我的U盘吗
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 我的USB里面有什么
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 我想看看我的U盘里的东西
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 帮我打开优盘
+@answer : 打开，U盘
+[@faq]
+@tag : 打开
+@tag : U盘
+@question : 打开U盘
+@answer : 打开，U盘
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 我的主题商店
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 主题商店在哪
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 更多主题
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 购买新主题
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 看看有哪些主题
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 哪里选主题？
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 随便推荐我一主题
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 有没有其它主题
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 有哪些皮肤？
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 有哪些主题？
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 有什么好的主题么
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 怎么更改主题
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 主题有哪些
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 主题
+@question : 主题商店
+@answer : 查看，主题
+[@faq]
+@tag : 查看
+@tag : 账号
+@question : 我的账号是什么？
+@answer : 查看，账号
+[@faq]
+@tag : 查看
+@tag : 账号
+@question : 修改账号
+@answer : 查看，账号
+[@faq]
+@tag : 查看
+@tag : 账号
+@question : 账号设置怎么看
+@answer : 查看，账号
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 查看下消息中心的新消息
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 查看消息中心
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 刚收到的新消息在哪里能看到
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 进入消息列表
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 浏览下我的消息中心
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 我的消息中心有内容更新吗
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 我要看我收到的所有消息
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 我有没有新的短消息
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 新消息有吗
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 在消息中心查看我的消息
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 最近有什么新消息呢
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 查查看新的资讯信息
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 消息
+@question : 我的消息
+@answer : 查看，消息
+[@faq]
+@tag : 查看
+@tag : 系统信息
+@question : 本机信息怎么看
+@answer : 查看，系统信息
+[@faq]
+@tag : 查看
+@tag : 系统信息
+@question : 本机型号
+@answer : 查看，系统信息
+[@faq]
+@tag : 查看
+@tag : 系统信息
+@question : 查看本机信息
+@answer : 查看，系统信息
+[@faq]
+@tag : 查看
+@tag : 系统信息
+@question : 查看系统信息
+@answer : 查看，系统信息
+[@faq]
+@tag : 查看
+@tag : 系统信息
+@question : 检查系统信息
+@answer : 查看，系统信息
+[@faq]
+@tag : 查看
+@tag : 系统信息
+@question : 系统配置怎么样
+@answer : 查看，系统信息
+[@faq]
+@tag : 查看
+@tag : 系统信息
+@question : 系统信息配置
+@answer : 查看，系统信息
+[@faq]
+@tag : 查看
+@tag : 系统信息
+@question : 系统信息如何
+@answer : 查看，系统信息
+[@faq]
+@tag : 查看
+@tag : 系统信息
+@question : 这电视的系统是哪个版本？
+@answer : 查看，系统信息
+[@faq]
+@tag : 查看
+@tag : 网速
+@question : 查看一下实时网速
+@answer : 查看，网速
+[@faq]
+@tag : 查看
+@tag : 网速
+@question : 检查下网速状况
+@answer : 查看，网速
+[@faq]
+@tag : 查看
+@tag : 网速
+@question : 是因为网速的原因卡么
+@answer : 查看，网速
+[@faq]
+@tag : 查看
+@tag : 网速
+@question : 网速好像不太好
+@answer : 查看，网速
+[@faq]
+@tag : 查看
+@tag : 网速
+@question : 网速貌似有问题
+@answer : 查看，网速
+[@faq]
+@tag : 查看
+@tag : 网速
+@question : 网速怎么样
+@answer : 查看，网速
+[@faq]
+@tag : 查看
+@tag : 网速
+@question : 我的网速是多少？
+@answer : 查看，网速
+[@faq]
+@tag : 查看
+@tag : 网速
+@question : 现在网速是不是太低了
+@answer : 查看，网速
+[@faq]
+@tag : 查看
+@tag : 网速
+@question : 现在网速有多快
+@answer : 查看，网速
+[@faq]
+@tag : 查看
+@tag : 网速
+@question : 现在网速怎么样
+@answer : 查看，网速
+[@faq]
+@tag : 查看
+@tag : 网速
+@question : 实时网速
+@answer : 查看，网速
+[@faq]
+@tag : 查看
+@tag : 网络
+@question : WiFi断掉了
+@answer : 查看，网络
+[@faq]
+@tag : 查看
+@tag : 网络
+@question : 查看网络设置
+@answer : 查看，网络
+[@faq]
+@tag : 查看
+@tag : 网络
+@question : 改动网络设置
+@answer : 查看，网络
+[@faq]
+@tag : 查看
+@tag : 网络
+@question : 看看网络
+@answer : 查看，网络
+[@faq]
+@tag : 查看
+@tag : 网络
+@question : 配置网络设置
+@answer : 查看，网络
+[@faq]
+@tag : 查看
+@tag : 网络
+@question : 调整网络设置
+@answer : 查看，网络
+[@faq]
+@tag : 查看
+@tag : 网络
+@question : 网络设置怎么变
+@answer : 查看，网络
+[@faq]
+@tag : 查看
+@tag : 网络
+@question : 网络有没有问题？
+@answer : 查看，网络
+[@faq]
+@tag : 查看
+@tag : 网络
+@question : 为什么没有网络
+@answer : 查看，网络
+[@faq]
+@tag : 查看
+@tag : 网络
+@question : 修改网络设置
+@answer : 查看，网络
+[@faq]
+@tag : 查看
+@tag : 网络
+@question : 怎么看网络设置
+@answer : 查看，网络
+[@faq]
+@tag : 查看
+@tag : 收藏
+@question : 帮我打开我的收藏
+@answer : 查看，收藏
+[@faq]
+@tag : 查看
+@tag : 收藏
+@question : 查看最近收藏过的东西
+@answer : 查看，收藏
+[@faq]
+@tag : 查看
+@tag : 收藏
+@question : 查找我的收藏里的内容
+@answer : 查看，收藏
+[@faq]
+@tag : 查看
+@tag : 收藏
+@question : 上次收藏的那些歌不错
+@answer : 查看，收藏
+[@faq]
+@tag : 查看
+@tag : 收藏
+@question : 搜索下我的收藏夹
+@answer : 查看，收藏
+[@faq]
+@tag : 查看
+@tag : 收藏
+@question : 我的收藏里有什么
+@answer : 查看，收藏
+[@faq]
+@tag : 查看
+@tag : 收藏
+@question : 我的收藏有什么
+@answer : 查看，收藏
+[@faq]
+@tag : 查看
+@tag : 收藏
+@question : 我收藏的东西有哪些
+@answer : 查看，收藏
+[@faq]
+@tag : 查看
+@tag : 收藏
+@question : 我之前收藏过什么？
+@answer : 查看，收藏
+[@faq]
+@tag : 查看
+@tag : 收藏
+@question : 最近都收藏了些
+@answer : 查看，收藏
+[@faq]
+@tag : 查看
+@tag : 收藏
+@question : 最近收藏过的东西有哪些
+@answer : 查看，收藏
+[@faq]
+@tag : 查看
+@tag : 设置
+@question : 查看我的设置
+@answer : 查看，设置
+[@faq]
+@tag : 查看
+@tag : 设置
+@question : 菜单设置怎么弄
+@answer : 查看，设置
+[@faq]
+@tag : 查看
+@tag : 设置
+@question : 电视设置怎么调
+@answer : 查看，设置
+[@faq]
+@tag : 查看
+@tag : 设置
+@question : 配置系统设置
+@answer : 查看，设置
+[@faq]
+@tag : 查看
+@tag : 设置
+@question : 设置菜单内容
+@answer : 查看，设置
+[@faq]
+@tag : 查看
+@tag : 设置
+@question : 设置菜单在哪
+@answer : 查看，设置
+[@faq]
+@tag : 查看
+@tag : 设置
+@question : 调节默认设置
+@answer : 查看，设置
+[@faq]
+@tag : 查看
+@tag : 设置
+@question : 我要设置
+@answer : 查看，设置
+[@faq]
+@tag : 查看
+@tag : 设置
+@question : 系统设置调整
+@answer : 查看，设置
+[@faq]
+@tag : 查看
+@tag : 设置
+@question : 怎么设置菜单内容
+@answer : 查看，设置
+[@faq]
+@tag : 查看
+@tag : 历史记录
+@question : 查一下历史记录
+@answer : 查看，历史记录
+[@faq]
+@tag : 查看
+@tag : 历史记录
+@question : 检索我的历史记录
+@answer : 查看，历史记录
+[@faq]
+@tag : 查看
+@tag : 历史记录
+@question : 搜搜我的历史记录
+@answer : 查看，历史记录
+[@faq]
+@tag : 查看
+@tag : 历史记录
+@question : 我都放过什么节目
+@answer : 查看，历史记录

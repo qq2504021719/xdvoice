@@ -39,19 +39,19 @@ class AipBase {
      * appId
      * @var string
      */
-    protected $appId = '';
+    protected $appId = '17565938';
 
     /**
      * apiKey
      * @var string
      */
-    protected $apiKey = '';
+    protected $apiKey = 'wpnoWyYWdFIIdgOICYuwunu0';
 
     /**
      * secretKey
      * @var string
      */
-    protected $secretKey = '';
+    protected $secretKey = 'hkScUtXN6cQPKzPUcheH707SPgDxMITs';
 
     /**
      * 权限
