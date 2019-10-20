@@ -8,7 +8,7 @@
 
 namespace App\Repository;
 
-
+require_once __DIR__."/../lib/baidu/AipNlp.php";
 class UNITRepository
 {
     const APP_ID = '17569204';
@@ -53,6 +53,21 @@ class UNITRepository
 //        return json_decode($bodys,true);
         $res = CommonRepository::request_post($url, $bodys);
         return $res;
+    }
+
+    /**
+     * 情感倾向分析
+     *
+     * @param $str
+     * @return array
+     */
+    static public function sentimentClassify($str)
+    {
+        $token = self::get_access_token();
+
+        $client = new \AipNlp(self::APP_ID,self::API_KEY,self::SECRET_KEY);
+        // 调用情感倾向分析
+        return $client->sentimentClassify($str);
     }
 
 
