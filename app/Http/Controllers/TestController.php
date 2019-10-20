@@ -47,14 +47,14 @@ class TestController extends Controller
         $str = $request->input('str','电视的机身接口怎么对接？');
 
         $data = BaiDuRepository::lexer($str);
-        if(count($data))
-        {
-            echo '文本:'.$str.PHP_EOL;
-            foreach ($data['items'] as $v)
-            {
-                echo $v['item'].'-'.BaiDuRepository::chixing($v['pos']).PHP_EOL;
-            }
-        }
+//        if(count($data))
+//        {
+//            echo '文本:'.$str.PHP_EOL;
+//            foreach ($data['items'] as $v)
+//            {
+//                echo $v['item'].'-'.BaiDuRepository::chixing($v['pos']).PHP_EOL;
+//            }
+//        }
     }
 
     /**

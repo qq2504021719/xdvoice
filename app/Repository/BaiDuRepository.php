@@ -30,6 +30,48 @@ class BaiDuRepository
     }
 
     /**
+     * 调用DNN语言模型
+     *
+     * @param $str
+     * @return array
+     */
+    static public function dnnlm($str)
+    {
+        $client = new \AipNlp(self::APP_ID,self::API_KEY,self::SECRET_KEY);
+
+        // 调用DNN语言模型
+        return $client->dnnlm($str);
+    }
+
+    /**
+     * 文本纠错
+     *
+     * @param $str
+     * @return array
+     */
+    static public function ecnet($str)
+    {
+        $client = new \AipNlp(self::APP_ID,self::API_KEY,self::SECRET_KEY);
+
+        // 调用DNN语言模型
+        return $client->ecnet($str);
+    }
+
+    /**
+     * 文章标签
+     *
+     * @param $str
+     * @return array
+     */
+    static public function keyword($str)
+    {
+        $client = new \AipNlp(self::APP_ID,self::API_KEY,self::SECRET_KEY);
+
+        // 调用DNN语言模型
+        return $client->keyword($str,$str);
+    }
+
+    /**
      * 评论观点抽取
      *
      * @param $str

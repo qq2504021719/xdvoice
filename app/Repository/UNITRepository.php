@@ -49,7 +49,7 @@ class UNITRepository
     {
         $token = self::get_access_token();
         $url = 'https://aip.baidubce.com/rpc/2.0/unit/bot/chat?access_token=' . $token;
-        $bodys = '{"bot_session":"","log_id":"7758521","request":{"bernard_level":1,"client_session":"{\"client_results\":\"\", \"candidate_options\":[]}","query":"'.$str.'","query_info":{"asr_candidates":[],"source":"KEYBOARD","type":"TEXT"},"updates":"","user_id":"88888"},"bot_id":"84967","version":"2.0"}';
+        $bodys = '{"bot_session":"","log_id":"7758521","request":{"bernard_level":1,"client_session":"{\"client_results\":\"\", \"candidate_options\":[]}","query":"'.$str.'","query_info":{"asr_candidates":[],"source":"KEYBOARD","type":"TEXT"},"updates":"","user_id":"88888"},"bot_id":"85030","version":"2.0"}';
 //        return json_decode($bodys,true);
         $res = CommonRepository::request_post($url, $bodys);
         return $res;
