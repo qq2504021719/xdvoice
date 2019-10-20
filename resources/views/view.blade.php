@@ -1,6 +1,6 @@
 <div class="box box-info box-solid">
     <div class="box-header with-border">
-        <h3 class="box-title">打开滴滴</h3>
+        <h3 class="box-title">{{$viewData['text']}}</h3>
         <div class="box-tools pull-right">
         </div>
         <!-- /.box-tools -->
